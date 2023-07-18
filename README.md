@@ -22,7 +22,7 @@ Jumping Game is a simple web-based game built using HTML, CSS, and JavaScript. T
 
 ## Demo
 
-You can play the game online at [Jumping Game Demo](https://your-demo-link-here.com)
+You can play the game online at [Jumping Game Demo](https://codepen.io/abdul-1432/pen/poQVdKZ)
 
 ## Technologies Used
 
