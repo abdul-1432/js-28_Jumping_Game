@@ -1,6 +1,7 @@
 # Jumping Game
 
-![Jumping Game Screenshot](screenshot.png)
+![28](https://github.com/abdul-1432/js-28_Jumping_Game/assets/124916666/5d467c00-79eb-406f-acbe-f6913c031c81)
+
 
 ## Description
 
@@ -21,12 +22,7 @@ Jumping Game is a simple web-based game built using HTML, CSS, and JavaScript. T
 
 ## Demo
 
-You can play the game online at: [Jumping Game Demo](https://your-demo-link-here.com)
-
-## Screenshots
-
-![Jumping Game Screenshot 1](screenshots/screenshot1.png)
-![Jumping Game Screenshot 2](screenshots/screenshot2.png)
+You can play the game online at [Jumping Game Demo](https://your-demo-link-here.com)
 
 ## Technologies Used
 
